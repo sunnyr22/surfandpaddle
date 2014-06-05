@@ -6,8 +6,7 @@
 	margin: 0 auto;
 }
 
-.head {margin-left: 122px; padding: 30px;
-
+.header {/*margin-left: 122px*//*; padding: 30px;*/
 
 }
 
@@ -20,5 +19,19 @@
    margin-top: 6px; 
   display: inline-block;
   padding:10px;
+  color: rgb(10, 34, 35);
 
+}
+
+.headcontainer {
+	height: 40px;
+	width: 100px;
+	background-color: red;
+
+}
+
+.container {
+	width: 960px;
+	height: 700px;
+	margin: 0 auto;
 }
