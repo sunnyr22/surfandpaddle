@@ -1,9 +1,11 @@
 .background-one {
 	background-image: url(../SurfandPaddle/images/header.jpg);
-	width: 100%;
+	width: 1300px;
 	height: 500px;
+	background-repeat: no-repeat;
+	margin: 0 auto;
 }
 
-.head {
+
 
 }
