@@ -6,7 +6,19 @@
 	margin: 0 auto;
 }
 
-.head {margin-left: 122px;
+.head {margin-left: 122px; padding: 30px;
 
+
+}
+
+.about { float: right; margin-right: 200px
+
+}
+
+.topleftwords {
+	vertical-align: top;
+   margin-top: 6px; 
+  display: inline-block;
+  padding:10px;
 
 }
