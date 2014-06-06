@@ -1,7 +1,6 @@
 .background-one {
 	background-image: url(../SurfandPaddle/images/header.jpg);
 	width: 1300px;
-	height: 500px;
 	background-repeat: no-repeat;
 	margin: 0 auto;
 }
@@ -10,7 +9,9 @@
 
 }
 
-.about { float: right; margin-right: 200px
+.about { float: right;
+margin-right: 17px;
+width: 60px;
 
 }
 
@@ -23,10 +24,22 @@
 
 }
 
+.subtitle { 
+height: 50px;
+width: 345px;
+margin-left: 398px;
+
+font-size: small;
+
+
+}
+
 .headcontainer {
-	height: 40px;
-	width: 100px;
-	background-color: red;
+height: 65px;
+width: 645px;
+margin-top: 145px;
+margin-left: 216px;
+font-size: 64px;
 
 }
 
@@ -34,4 +47,25 @@
 	width: 960px;
 	height: 700px;
 	margin: 0 auto;
+	background-color: red;
+}
+
+.Search {
+float: right;
+margin-right: 21px;
+padding-right: -5px;
+width: 69px;
+margin-top: 17px
+
+
+}
+
+
+
+.mag { float: right; 
+	display: inline;
+margin-left: -35px;
+margin-top: 17px;
+
+}
 }
