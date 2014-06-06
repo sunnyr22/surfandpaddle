@@ -27,9 +27,9 @@ width: 60px;
 .subtitle { 
 height: 50px;
 width: 345px;
-margin-left: 398px;
-
+margin-left: 377px;
 font-size: small;
+padding-top: 10px;
 
 
 }
@@ -40,6 +40,7 @@ width: 645px;
 margin-top: 145px;
 margin-left: 216px;
 font-size: 64px;
+font-family: 'PT Sans', sans-serif;
 
 }
 
@@ -86,9 +87,29 @@ margin-top: 17px;
 
 }
 
+.on {margin-left: 18px;
+
+}
+
 .avatar1 {float: left; width: 18px;
 
 }
+
+.chic {
+
+}
+
+.Whoa {margin-top: 212px;
+background-color: red;
+height: 43px;
+padding-top: 24px;
+
+}
+
+
+.sub-heading {background-color: yellow;
+width: 452px;
+height: 21px;}
 
 .fantastic {
 	width: 579px;
