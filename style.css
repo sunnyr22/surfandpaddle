@@ -28,6 +28,11 @@ font-size: 12px;
 
 }
 
+.lor {width: 400px;
+	background-color: red;
+
+}
+
 .subtitle { 
 height: 50px;
 width: 345px;
@@ -37,7 +42,15 @@ font-family: 'PT Sans', sans-serif;
 
 
 
+
+
 }
+
+.Anne { margin-left: 13px;
+font-family: 'PT Sans', sans-serif;
+}
+
+
 
 .headcontainer {
 height: 91px;
@@ -103,7 +116,34 @@ margin-top: 17px;
 
 }
 
+.on {margin-left: 13px;
+font-family: 'PT Sans', sans-serif;
+}
+
 .chic {
+
+}
+
+.L {height: 25px;
+width: 125px;
+background-color: blue;
+margin-left: 10px;
+
+}
+
+.M {
+
+}
+
+.R {
+
+}
+
+.lbottom {height: 25px;
+width: 611px;
+background-color: red;
+}
+
 
 }
 
