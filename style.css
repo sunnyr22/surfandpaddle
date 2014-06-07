@@ -28,8 +28,9 @@ font-size: 12px;
 
 }
 
-.lor {width: 400px;
+.lor {width: 603px;
 	background-color: red;
+	font-family: 'PT Sans', sans-serif;
 
 }
 
@@ -112,7 +113,7 @@ margin-top: 17px;
 
 }
 
-.avatar1 {float: left; width: 18px;
+.avatar1 {float: left; width: 22px;
 
 }
 
@@ -124,48 +125,69 @@ font-family: 'PT Sans', sans-serif;
 
 }
 
-.L {height: 25px;
-width: 125px;
+.L {height: 32px;
+width: 135px;
 background-color: blue;
-margin-left: 10px;
+margin-left: 20px;
 float: left;
 
 }
 
-.M {height: 25px;
-width: 125px;
+.LL { height: 32px;
+	width:35px;
+	background-color: yellow;
+	float:left;
+
+}
+
+.LR {float: right;
+	background-color: palegreen;
+width: 100px;
+height: 32px;}
+
+
+
+
+
+
+
+.M {height: 32px;
+width: 135px;
 background-color: blue;
-margin-left: 10px;
+margin-left: 20px;
 float: left;
 
 }
 
-.R {height: 25px;
-width: 125px;
+.R {height: 32px;
+width: 135px;
 background-color: blue;
-margin-left: 10px;
+margin-left: 20px;
 float: left;
 
 }
 
-.lbottom {height: 25px;
+.lbottom {height: 32px;
 width: 611px;
 background-color: red;
 }
 
 
-}
 
-.Whoa {margin-top: 212px;
+
+.Whoa {margin-top: 16px;
 background-color: red;
 height: 43px;
 padding-top: 24px;
 font-family: 'PT sans',sans-serif;
 padding-left: 36px;
 font-size: 25px;
-border-left: 2px solid #DFDFDF;
+border-left: 2px #DFDFDF solid;
 
 }
+
+.Date {
+font-family: 'PT Sans', sans-serif;}
 
 
 .sub-heading {background-color: yellow;
@@ -176,4 +198,6 @@ height: 21px;}
 	width: 579px;
 font-size: 46px;
 padding-top: 42px;
+margin-left: 13px;
+font-family: 'PT Sans', sans-serif;
 }
