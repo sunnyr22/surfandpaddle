@@ -250,6 +250,32 @@ height: 17px;
 margin-top: 3px;
 }
 
+.Twitter{height: 17px;
+width: 91px;
+background-color: green;
+float: left;
+margin-left: 32px; 
+border-right: solid 1px #c2c2c2;
+  
+}
+
+
+
+.Facebook{height: 17px;
+width: 91px;
+background-color: green;
+float: left;margin-left: 20px;
+border-right: solid 1px #c2c2c2
+
+}
+
+.Instagram{height: 17px;
+width: 91px;
+background-color: green;
+float: left;
+margin-left: 20px;
+
+}
 
 
 
