@@ -16,6 +16,10 @@ font-family: 'Oswald', sans-serif;
 
 }
 
+.Mauris {color:#5d676e
+
+}
+
 .topleftwords {
 	vertical-align: top;
    margin-top: 6px; 
@@ -28,6 +32,7 @@ font-size: 12px;
 
 .lor {width: 603px;
 	font-family: 'PT Sans', sans-serif;
+	color: #5d676e;
 }
 
 .subtitle { 
@@ -41,6 +46,7 @@ color: #08344f
 
 .Anne { margin-left: 13px;
 font-family: 'PT Sans', sans-serif;
+color: #106fb3;
 }
 
 
@@ -112,11 +118,14 @@ margin-top: 17px;
 
 .on {margin-left: 13px;
 font-family: 'PT Sans', sans-serif;
+color: #bac6cf;
 }
 
-.chic {
+.chic {color: #b6c2cc
 
 }
+
+
 
 .L {height: 32px;
 width: 135px;
@@ -164,19 +173,19 @@ float: left;
 
 }
 
+.aiqua {color: #2179b8;
+
+}
+
 .RR {float: right;
 	background-color: palegreen;
 width: 100px;
 height: 32px;}
 
-
-
-
-
-
-
-
-
+.rightpic {text-align: center;
+padding-top: 60px;
+ font-family: 'PT Sans', sans-serif;
+}
 
 .M {height: 32px;
 width: 135px;
@@ -211,11 +220,13 @@ font-family: 'PT sans',sans-serif;
 padding-left: 36px;
 font-size: 25px;
 border-left: 2px #DFDFDF solid;
+color :#106fb3;
 
 }
 
 .Date {
-font-family: 'PT Sans', sans-serif;}
+font-family: 'PT Sans', sans-serif;
+color: #bac6cf}
 
 
 .sub-heading {
