@@ -5,7 +5,7 @@
 	margin: 0 auto;
 }
 
-.header {/*margin-left: 122px*//*; padding: 30px;*/
+.header {color: #08344f;
 
 }
 
@@ -24,14 +24,10 @@ font-family: 'Oswald', sans-serif;
   color: rgb(10, 34, 35);
 font-family: 'PT Sans', sans-serif;
 font-size: 12px;
-
-
 }
 
 .lor {width: 603px;
-	background-color: red;
 	font-family: 'PT Sans', sans-serif;
-
 }
 
 .subtitle { 
@@ -40,11 +36,7 @@ width: 345px;
 margin-left: 377px;
 font-size: 12px;
 font-family: 'PT Sans', sans-serif;
-
-
-
-
-
+color: #08344f
 }
 
 .Anne { margin-left: 13px;
@@ -86,8 +78,9 @@ font-family: 'Oswald', sans-serif;
 .leftcolumn {margin-left: 170px;
 	height: 800px;
 width: 613px;
-background-color: green;
+
 float:left;
+font-family: 'PT Sans', sans-serif;
 
 
 }
@@ -204,11 +197,14 @@ width: 611px;
 background-color: red;
 }
 
+button: {border-style: none;}
+
+
+
 
 
 
 .Whoa {margin-top: 16px;
-background-color: red;
 height: 43px;
 padding-top: 24px;
 font-family: 'PT sans',sans-serif;
@@ -222,14 +218,17 @@ border-left: 2px #DFDFDF solid;
 font-family: 'PT Sans', sans-serif;}
 
 
-.sub-heading {background-color: yellow;
+.sub-heading {
 width: 452px;
 height: 21px;}
 
 .fantastic {
+	font-weight: bold;
 	width: 579px;
-font-size: 46px;
-padding-top: 42px;
-margin-left: 13px;
+font-size: 53px;
+padding-top: 50px;
+margin-left: 0px;
 font-family: 'PT Sans', sans-serif;
+color: #083452;
+}
 }
