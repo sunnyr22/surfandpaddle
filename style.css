@@ -185,6 +185,7 @@ height: 32px;}
 .rightpic {text-align: center;
 padding-top: 60px;
  font-family: 'PT Sans', sans-serif;
+ color: #106fb3
 }
 
 .M {height: 32px;
@@ -241,5 +242,27 @@ padding-top: 50px;
 margin-left: 0px;
 font-family: 'PT Sans', sans-serif;
 color: #083452;
+
 }
+
+.TFI {background-color: red;
+height: 17px;
+margin-top: 3px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
