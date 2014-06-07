@@ -143,7 +143,35 @@ float: left;
 .LR {float: right;
 	background-color: palegreen;
 width: 100px;
+height: 32px;
+}
+
+.ML {height: 32px;
+width: 35px;
+background-color: yellow;
+float: left;
+}
+
+.MR {float: right;
+	background-color: palegreen;
+width: 100px;
+height: 32px;
+}
+
+.RL {height: 32px;
+width: 35px;
+background-color: yellow;
+float: left;
+	
+}
+
+.RR {float: right;
+	background-color: palegreen;
+width: 100px;
 height: 32px;}
+
+
+
 
 
 
@@ -156,7 +184,6 @@ width: 135px;
 background-color: blue;
 margin-left: 20px;
 float: left;
-
 }
 
 .R {height: 32px;
@@ -164,7 +191,6 @@ width: 135px;
 background-color: blue;
 margin-left: 20px;
 float: left;
-
 }
 
 .lbottom {height: 32px;
