@@ -284,7 +284,9 @@ border-right: solid 1px #c2c2c2;
 .lady{float: left;
 padding-left: 34px;}
 
-.adright {float: right;text-decoration: underline;}
+.adright {float: right;
+	text-decoration: underline;
+color: #a2b2bd}
 
 
 
@@ -302,14 +304,12 @@ text-align: center;
 
 .Instagram{height: 17px;
 width: 70px;
-background-color: green;
 float: left;
 margin-left: 10px;
 
 }
 
 .imgdiv{height: 365px;
-background-color: antiquewhite;
 padding-top: 42px;
 
 
