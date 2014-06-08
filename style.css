@@ -310,13 +310,12 @@ padding-top: 42px;
 
 }
 
-.botcon {background-color: red;
-height: 540px;
+.botcon {height: 478px;
 margin-top: 867px;
+
 }
 
-.C1 {background-color: navajowhite;
-height: 110px;
+.C1 {height: 110px;
 text-align: center;
 border-top: solid 2px #e1e6e8;
 }
