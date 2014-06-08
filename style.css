@@ -362,6 +362,18 @@ float: left;}
 width: 1433px;
 float: left;}
 
+.F1 {height: 107px;
+	width: 700px;
+	float: left;
+	background-color: red;
+}
+
+
+.F2 {height: 107px;
+	width: 730px;
+	float: left;
+	background-color: gray;
+}
 
 
 
