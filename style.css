@@ -436,7 +436,8 @@ margin-top: 43px;
 float: left;
 width: 80px;
 height: 16px;
-border-right: aliceblue solid 1px}
+border-right: #9aabb8  solid 1px;
+color: #9aabb8 ;}
 
 .T1 {position : absolute;
 	height: 20px;
