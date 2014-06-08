@@ -262,7 +262,7 @@ color: #083452;
 
 .mixtape {color: #a2b2bd}
 
-.TFI {background-color: red;
+.TFI {
 height: 17px;
 margin-top: 3px;
 }
@@ -273,7 +273,6 @@ margin-top: 3px;
 .Twitter{height: 17px;
 text-align: center;
 width: 70px;
-background-color: green;
 float: left;
 margin-left: 58px;
 border-right: solid 1px #c2c2c2;
@@ -292,7 +291,6 @@ color: #a2b2bd}
 
 .Facebook{height: 17px;
 width: 88px;
-background-color: green;
 float: left;
 margin-left: 10px;
 border-right: solid 1px #c2c2c2;
