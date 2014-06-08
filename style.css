@@ -98,7 +98,15 @@ background-color: blue;
 margin-right: 170px;
 
 }
+.rsidebar {height: 40px;
+ background-color: yellow;
+ margin-left: 32px; }
 
+ .rightpara {height: 40px;
+ background-color: green;
+ margin-left: 32px; 
+
+ }
 
 
 .mag { float: right; 
