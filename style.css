@@ -368,7 +368,9 @@ color: #124669;
 width: 359px;
 background-color: #3e82b3;
 float: left;
-position: relative;}
+position: relative;
+font-family: 'Oswald', sans-serif;
+color: #124669;}
 
 .footer {background-color: #083452;
 	height: 107px;
@@ -458,6 +460,14 @@ padding-left: 15px;
 }
 
 	.T3 {position: absolute;
+height: 20px;
+width: 278px;
+left: 0;
+top: 263px;
+font-size: 27px;
+padding-left: 15px;}
+
+.T4 {position: absolute;
 height: 20px;
 width: 278px;
 left: 0;
