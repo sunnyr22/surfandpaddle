@@ -94,14 +94,12 @@ font-family: 'PT Sans', sans-serif;
 .rightcolumn {height: 800px;
 float: right;
 width: 310px;
-background-color: blue;
 margin-right: 170px;
 color: #a2b2bd;
 font-family: 'PT Sans', sans-serif;
 
 }
 .rsidebar {height: 40px;
-background-color: yellow;
 margin-left: 32px;
 font-weight: bolder;
 color: #106fb3;
@@ -110,7 +108,6 @@ font-family: 'Oswald', sans-serif;
 }
 
  .rightpara {height: 175px;
- background-color: green;
  margin-left: 32px; 
 
  }
