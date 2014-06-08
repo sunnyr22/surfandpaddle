@@ -433,12 +433,19 @@ border-right: aliceblue solid 1px}
 	font-size: 27px;
 }	
 
-.T2 {position : absolute;
-	height: 20px;
-	width: 216px;
-	left: 0;
-	top: 266px;
-	font-size: 27px;}
+.T2 {position: absolute;
+height: 20px;
+width: 216px;
+left: 0;
+top: 311px;
+font-size: 31px;}
+
+	.T3 {position: absolute;
+height: 20px;
+width: 347px;
+left: 0;
+top: 288px;
+font-size: 28px;}
 
 
 
