@@ -376,14 +376,23 @@ float: left;}
 }
 
 .IY {padding-left: 202px;
-padding-top: 18px;
+padding-top: 24px;
 float: left;}
 
 .copyright {color: #a2b2bd;
 margin-left: 20px;
 padding-top: 1px;
 float: left;
-margin-top: 33px;}
+margin-top: 39px;}
+
+.nav1{height: 20px; 
+width: 20px;background-color: blue;}
+.nav2{}
+.nav3{height: 20px; 
+width: 20px;background-color: blue;}
+.nav4{}
+.nav5{height: 20px; 
+width: 20px;background-color: blue;}
 
 
 
