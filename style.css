@@ -355,11 +355,13 @@ float: left;
 position: relative;
 }
 
-.C4 {height: 340px;
-width: 359px;
-background-color: blue;
+.C4 {height: 364px;
+width: 358px;
+background-color: #3e82b3;
 float: left;
 position: relative;
+font-family: 'Oswald', sans-serif;
+color: #124669;
 }
 
 .C5 {height: 340px;
