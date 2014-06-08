@@ -101,8 +101,13 @@ font-family: 'PT Sans', sans-serif;
 
 }
 .rsidebar {height: 40px;
- background-color: yellow;
- margin-left: 32px; }
+background-color: yellow;
+margin-left: 32px;
+font-weight: bolder;
+color: #106fb3;
+font-size: 18PX;
+font-family: 'Oswald', sans-serif;
+}
 
  .rightpara {height: 175px;
  background-color: green;
