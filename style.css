@@ -452,12 +452,18 @@ padding-left: 15px;
 
 	.T3 {position: absolute;
 height: 20px;
-width: 347px;
+width: 278px;
 left: 0;
-top: 288px;
-font-size: 28px;}
+top: 263px;
+font-size: 27px;
+padding-left: 15px;}
 
-.beer { width: 358px;}
+.beer { width: 358px;
+ opacity: 0.4;}
+
+.hangover {opacity: 0.4;
+	width: 358px;
+}
 
 
 
