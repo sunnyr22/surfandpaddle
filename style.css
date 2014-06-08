@@ -334,10 +334,13 @@ background-color: yellowgreen;
 width: 358px;
 background-color: blue;
 float: left;
+position: relative;
 }
+ 
+
 
 .bald {
-width: 358px;
+width: 358px;  
 }
 
 .C3 {height: 340px;
@@ -418,6 +421,16 @@ float: left;
 width: 80px;
 height: 16px;
 border-right: aliceblue solid 1px}
+
+.T1 {position : absolute;
+	height: 20px;
+	width: 216px;
+	left: 0;
+	top: 266px;
+	font-size: 27px;
+}	
+
+
 
 
 
