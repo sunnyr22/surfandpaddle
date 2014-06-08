@@ -329,17 +329,21 @@ height: 45px;
 
 }
 
-.C2 {height: 340px;
+.C2 {font-family: 'Oswald', sans-serif;
+color: #124669;
+height: 364px;
 width: 358px;
-background-color: blue;
+background-color: #3e82b3;
 float: left;
 position: relative;
+
 }
  
 
 
 .bald {
-width: 358px;  
+opacity: 0.4; 
+width: 358px; 
 }
 
 .C3 {height: 340px;
