@@ -93,7 +93,7 @@ font-family: 'PT Sans', sans-serif;
 
 .rightcolumn {height: 800px;
 float: right;
-width: 347px;
+width: 310px;
 background-color: blue;
 margin-right: 170px;
 
@@ -250,33 +250,53 @@ height: 17px;
 margin-top: 3px;
 }
 
+.ad {padding-top: 19px
+}
+
 .Twitter{height: 17px;
-width: 91px;
+text-align: center;
+width: 70px;
 background-color: green;
 float: left;
-margin-left: 32px; 
+margin-left: 58px;
 border-right: solid 1px #c2c2c2;
+
   
 }
+
+.lady{float: left;
+padding-left: 34px;}
+
+.adright {float: right;text-decoration: underline;}
 
 
 
 .Facebook{height: 17px;
-width: 91px;
+width: 88px;
 background-color: green;
-float: left;margin-left: 20px;
-border-right: solid 1px #c2c2c2
+float: left;
+margin-left: 10px;
+border-right: solid 1px #c2c2c2;
+text-align: center;
+
+
 
 }
 
 .Instagram{height: 17px;
-width: 91px;
+width: 70px;
 background-color: green;
 float: left;
-margin-left: 20px;
+margin-left: 10px;
 
 }
 
+.imgdiv{height: 365px;
+background-color: antiquewhite;
+padding-top: 42px;
+
+
+}
 
 
 
