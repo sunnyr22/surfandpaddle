@@ -432,9 +432,9 @@ border-right: aliceblue solid 1px}
 
 .T1 {position : absolute;
 	height: 20px;
-	width: 216px;
+	width: 296px;
 	left: 0;
-	top: 266px;
+	top: 311px;
 	font-size: 27px;
 	padding-left: 15px;
 }	
@@ -443,8 +443,10 @@ border-right: aliceblue solid 1px}
 height: 20px;
 width: 216px;
 left: 0;
-top: 311px;
-font-size: 31px;}
+top: 306px;
+font-size: 29px;
+padding-left: 15px;
+}
 
 	.T3 {position: absolute;
 height: 20px;
@@ -452,6 +454,8 @@ width: 347px;
 left: 0;
 top: 288px;
 font-size: 28px;}
+
+.beer { width: 358px;}
 
 
 
