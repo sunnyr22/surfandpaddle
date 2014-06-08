@@ -334,11 +334,14 @@ background-color: yellowgreen;
 width: 358px;
 background-color: blue;
 float: left;
+}
 
+.bald {
+width: 358px;
 }
 
 .C3 {height: 340px;
-width: 359px;
+width: 358px;
 background-color: green;
 float: left;
 }
@@ -348,6 +351,16 @@ width: 359px;
 background-color: blue;
 float: left;
 }
+
+.C5 {height: 340px;
+width: 357px;
+background-color: green;
+float: left;}
+
+.footer {background-color: yellow;
+	height: 107px;
+width: 1433px;
+float: left;}
 
 
 
