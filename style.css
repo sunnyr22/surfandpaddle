@@ -346,9 +346,11 @@ opacity: 0.4;
 width: 358px; 
 }
 
-.C3 {height: 340px;
+.C3 {font-family: 'Oswald', sans-serif;
+color: #124669;
+height: 364px;
 width: 358px;
-background-color: green;
+background-color: #3e82b3;
 float: left;
 position: relative;
 }
@@ -434,6 +436,7 @@ border-right: aliceblue solid 1px}
 	left: 0;
 	top: 266px;
 	font-size: 27px;
+	padding-left: 15px;
 }	
 
 .T2 {position: absolute;
