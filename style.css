@@ -336,7 +336,21 @@ width: 358px;
 background-color: #3e82b3;
 float: left;
 position: relative;
+color: white ;
 
+}
+
+.C2:hover {color: white !important;}
+
+.bald:hover {opacity: 1;
+	color: white;}
+
+.T1:hover {color: white;
+}
+
+.T2:hover {color: white;}
+.T3:hover{color: white;}
+.T4:hover{color: white;
 }
  
 
@@ -448,7 +462,8 @@ color: #9aabb8 ;}
 	top: 311px;
 	font-size: 27px;
 	padding-left: 15px;
-	color: #083452;
+	color: #083452
+	
 }	
 
 .T2 {position: absolute;
@@ -476,7 +491,8 @@ width: 278px;
 left: 0;
 top: 263px;
 font-size: 27px;
-padding-left: 15px;}
+padding-left: 15px;
+color: #083452;}
 
 .beer { width: 358px;
  opacity: 0.4;}
@@ -487,6 +503,8 @@ padding-left: 15px;}
 
 .liquor {opacity: 0.4;
 width: 358px;}
+
+.C1:a {color: color: #083452}
 
 
 
