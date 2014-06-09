@@ -345,13 +345,18 @@ color: white ;
 .bald:hover {opacity: 1;
 	color: white;}
 
+	.beer:hover {opacity: 1}
+
+	.hangover:hover{opacity: 1}
+
+	.liquor:hover{opacity: 1}
+
 .T1:hover {color: white;
 }
 
 .T2:hover {color: white;}
 .T3:hover{color: white;}
-.T4:hover{color: white;
-}
+.T4:hover{color: white;}
  
 
 
