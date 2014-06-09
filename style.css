@@ -25,7 +25,7 @@ font-family: 'Oswald', sans-serif;
    margin-top: 6px; 
   display: inline-block;
   padding:10px;
-  color: rgb(10, 34, 35);
+  color: #083452);
 font-family: 'PT Sans', sans-serif;
 font-size: 12px;
 }
@@ -68,6 +68,7 @@ color: white;
 	width: 960px;
 	height: 523px;
 	margin: 0 auto;
+	color: #083452;
 	
 }
 
@@ -346,6 +347,7 @@ position: relative;
 color: white ;
 
 }
+.lefty {color: #083452;text-decoration: none;}
 
 .C2:hover {color: white !important;}
 
@@ -531,7 +533,9 @@ width: 358px;}
 
 .R:hover > .RR{background-color:#106fb3 ;color:white ;}
 
-.C1:hover > .bald {opacity:0 ;color: whit
+
+
+
 
 
 
