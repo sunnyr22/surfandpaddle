@@ -150,7 +150,7 @@ float: left;
 
 .LL { height: 32px;
 	width:35px;
-	background-color: yellow;
+	background-color: #5d676e;
 	float:left;
 
 }
@@ -162,26 +162,26 @@ padding-top: 5px;
 }
 
 .LR {float: right;
-	background-color: palegreen;
+	background-color: #a2b2bd;
 width: 100px;
 height: 32px;
 }
 
 .ML {height: 32px;
 width: 35px;
-background-color: yellow;
+background-color: #5d676e;
 float: left;
 }
 
 .MR {float: right;
-	background-color: palegreen;
+	background-color: #a2b2bd;
 width: 100px;
 height: 32px;
 }
 
 .RL {height: 32px;
 width: 35px;
-background-color: yellow;
+background-color: #5d676e;
 float: left;
 
 }
@@ -191,7 +191,7 @@ float: left;
 }
 
 .RR {float: right;
-	background-color: palegreen;
+	background-color: #a2b2bd;
 width: 100px;
 height: 32px;}
 
@@ -511,6 +511,12 @@ color: #083452;}
 width: 358px;}
 
 .C1:a {color: color: #083452}
+
+.L:hover > .LL{background-color:#083452 ;color:white ;}
+
+.L:hover > .LR{background-color:#106fb3 ;color:white ;}
+
+
 
 
 
