@@ -195,7 +195,9 @@ float: left;
 .RR {float: right;
 	background-color: #a2b2bd;
 width: 100px;
-height: 32px;}
+height: 25px;
+font-size: 15px;
+padding-top: 7px;}
 
 .rightpic {text-align: center;
 padding-top: 60px;
