@@ -178,9 +178,9 @@ float: left;
 .MR {float: right;
 	background-color: #a2b2bd;
 width: 100px;
-height: 32px;
+height: 25px;
 font-size: 15px;
-padding-left: 7px;
+padding-top: 7px;
 }
 
 .RL {height: 32px;
