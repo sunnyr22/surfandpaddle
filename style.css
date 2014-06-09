@@ -217,10 +217,10 @@ float: left;
 
 .lbottom {height: 32px;
 width: 611px;
-background-color: red;
+
 }
 
-button: {border-style: none;}
+
 
 
 
@@ -510,7 +510,7 @@ color: #083452;}
 .liquor {opacity: 0.4;
 width: 358px;}
 
-.C1:a {color: color: #083452}
+/*.C1:a {color: color: #083452}*/
 
 .L:hover > .LL{background-color:#083452 ;color:white ;}
 
@@ -524,6 +524,8 @@ width: 358px;}
 
 
 .R:hover > .RR{background-color:#106fb3 ;color:white ;}
+
+.C1:hover > .bald {opacity:0 ;color: whit
 
 
 
