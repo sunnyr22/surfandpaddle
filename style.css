@@ -36,12 +36,13 @@ font-size: 12px;
 }
 
 .subtitle { 
-height: 50px;
+height: 53px;
 width: 345px;
-margin-left: 377px;
-font-size: 12px;
+margin-left: 350px;
+font-size: 14px;
 font-family: 'PT Sans', sans-serif;
-color: #08344f
+color: #08344f;
+padding-top: 18px;
 }
 
 .Anne { margin-left: 13px;
@@ -55,8 +56,8 @@ color: #106fb3;
 height: 91px;
 width: 865px;
 margin-top: 100px;
-margin-left: 57px;
-font-size: 85px;
+margin-left: 60px;
+font-size: 97px;
 font-family: 'PT Sans', sans-serif;
 color: white;
 
